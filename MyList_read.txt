@@ -1,0 +1,61 @@
+10
+001
+hua quang huy
+10/04/2001
+Thanh Tri, Ha Noi
+nam
+quang ninh
+002
+James Jones
+10/03/2001
+Ha Dong, Ha Noi
+nam
+usa
+003
+Truong van Tinh
+20/11/2000
+Thanh Xuan, Ha Noi
+nam
+Nam Dinh
+004
+Nguyen Thi Van Anh
+30/12/2003
+Long Bien, Ha Noi
+nu
+Hai Phong
+005
+Le Thi Mai
+29/3/2002
+Gia Lam, Ha Noi
+nu
+Vinh Phuc
+006
+hoang van anh
+30/11/2001
+ha dong, ha noi
+nu
+lao cai
+007
+trinh van minh
+5/6/2002
+nam tu liem, ha noi
+nam
+tuyen quang
+008
+pham van luong
+10/7/2000
+Hai Ba trung, ha noi
+nam
+ninh binh
+009
+nguyen thi hong ngoc
+22/3/2001
+Thanh xuan, ha noi
+nu
+thai binh
+010
+dinh van hanh
+28/2/2001
+Hoan Kiem, Ha noi
+nam
+hai phong

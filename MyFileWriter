@@ -1,0 +1,121 @@
+
+1    Hua Quang Huy            10/04/2001     Thanh Tri, Ha Noi             Nam       Quang Ninh          
+2    James Jones              10/03/2001     Ha Dong, Ha Noi               Nam       Usa                 
+3    Truong Van Tinh          20/11/2000     Thanh Xuan, Ha Noi            Nam       Nam Dinh            
+4    Nguyen Thi Van Anh       30/12/2003     Long Bien, Ha Noi             Nu        Hai Phong           
+5    Le Thi Mai               29/3/2002      Gia Lam, Ha Noi               Nu        Vinh Phuc           
+6    Hoang Van Anh            30/11/2001     Ha Dong, Ha Noi               Nu        Lao Cai             
+7    Trinh Van Minh           5/6/2002       Nam Tu Liem, Ha Noi           Nam       Tuyen Quang         
+8    Pham Van Luong           10/7/2000      Hai Ba Trung, Ha Noi          Nam       Ninh Binh           
+9    Nguyen Thi Hong Ngoc     22/3/2001      Thanh Xuan, Ha Noi            Nu        Thai Binh           
+10   Dinh Van Hanh            28/2/2001      Hoan Kiem, Ha Noi             Nam       Hai Phon            MSV  Name                     DoB            Ads                           gender    Hometown            
+1    Hua Quang Huy            10/04/2001     Thanh Tri, Ha Noi             Nam       Quang Ninh          
+2    James Jones              10/03/2001     Ha Dong, Ha Noi               Nam       Usa                 
+3    Truong Van Tinh          20/11/2000     Thanh Xuan, Ha Noi            Nam       Nam Dinh            
+4    Nguyen Thi Van Anh       30/12/2003     Long Bien, Ha Noi             Nu        Hai Phong           
+5    Le Thi Mai               29/3/2002      Gia Lam, Ha Noi               Nu        Vinh Phuc           
+6    Hoang Van Anh            30/11/2001     Ha Dong, Ha Noi               Nu        Lao Cai             
+7    Trinh Van Minh           5/6/2002       Nam Tu Liem, Ha Noi           Nam       Tuyen Quang         
+8    Pham Van Luong           10/7/2000      Hai Ba Trung, Ha Noi          Nam       Ninh Binh           
+9    Nguyen Thi Hong Ngoc     22/3/2001      Thanh Xuan, Ha Noi            Nu        Thai Binh           
+10   Dinh Van Hanh            28/2/2001      Hoan Kiem, Ha Noi             Nam       Hai Phon            MSV  Name                     DoB            Ads                           gender    Hometown            
+1    Hua Quang Huy            10/04/2001     Thanh Tri, Ha Noi             Nam       Quang Ninh          
+2    James Jones              10/03/2001     Ha Dong, Ha Noi               Nam       Usa                 
+3    Truong Van Tinh          20/11/2000     Thanh Xuan, Ha Noi            Nam       Nam Dinh            
+4    Nguyen Thi Van Anh       30/12/2003     Long Bien, Ha Noi             Nu        Hai Phong           
+5    Le Thi Mai               29/3/2002      Gia Lam, Ha Noi               Nu        Vinh Phuc           
+6    Hoang Van Anh            30/11/2001     Ha Dong, Ha Noi               Nu        Lao Cai             
+7    Trinh Van Minh           5/6/2002       Nam Tu Liem, Ha Noi           Nam       Tuyen Quang         
+8    Pham Van Luong           10/7/2000      Hai Ba Trung, Ha Noi          Nam       Ninh Binh           
+9    Nguyen Thi Hong Ngoc     22/3/2001      Thanh Xuan, Ha Noi            Nu        Thai Binh           
+10   Dinh Van Hanh            28/2/2001      Hoan Kiem, Ha Noi             Nam       Hai Phon            MSV  Name                     DoB            Ads                           gender    Hometown            
+1    Hua Quang Huy            10/04/2001     Thanh Tri, Ha Noi             Nam       Quang Ninh          
+2    James Jones              10/03/2001     Ha Dong, Ha Noi               Nam       Usa                 
+3    Truong Van Tinh          20/11/2000     Thanh Xuan, Ha Noi            Nam       Nam Dinh            
+4    Nguyen Thi Van Anh       30/12/2003     Long Bien, Ha Noi             Nu        Hai Phong           
+5    Le Thi Mai               29/3/2002      Gia Lam, Ha Noi               Nu        Vinh Phuc           
+6    Hoang Van Anh            30/11/2001     Ha Dong, Ha Noi               Nu        Lao Cai             
+7    Trinh Van Minh           5/6/2002       Nam Tu Liem, Ha Noi           Nam       Tuyen Quang         
+8    Pham Van Luong           10/7/2000      Hai Ba Trung, Ha Noi          Nam       Ninh Binh           
+9    Nguyen Thi Hong Ngoc     22/3/2001      Thanh Xuan, Ha Noi            Nu        Thai Binh           
+10   Dinh Van Hanh            28/2/2001      Hoan Kiem, Ha Noi             Nam       Hai Phon               Phong 10
+*****************THE SINH VIEN**************
+============================================
+Ma sinh vien:1
+Ho va ten:Hua Quang Huy
+Dia chi: Thanh Tri, Ha Noi
+Gioi tinh: Nam
+Que quan: Quang Ninh
+=============================================
+*****************THE SINH VIEN**************
+============================================
+Ma sinh vien:2
+Ho va ten:James Jones
+Dia chi: Ha Dong, Ha Noi
+Gioi tinh: Nam
+Que quan: Usa
+=============================================
+*****************THE SINH VIEN**************
+============================================
+Ma sinh vien:3
+Ho va ten:Truong Van Tinh
+Dia chi: Thanh Xuan, Ha Noi
+Gioi tinh: Nam
+Que quan: Nam Dinh
+=============================================
+*****************THE SINH VIEN**************
+============================================
+Ma sinh vien:4
+Ho va ten:Nguyen Thi Van Anh
+Dia chi: Long Bien, Ha Noi
+Gioi tinh: Nu
+Que quan: Hai Phong
+=============================================
+*****************THE SINH VIEN**************
+============================================
+Ma sinh vien:5
+Ho va ten:Le Thi Mai
+Dia chi: Gia Lam, Ha Noi
+Gioi tinh: Nu
+Que quan: Vinh Phuc
+=============================================
+*****************THE SINH VIEN**************
+============================================
+Ma sinh vien:6
+Ho va ten:Hoang Van Anh
+Dia chi: Ha Dong, Ha Noi
+Gioi tinh: Nu
+Que quan: Lao Cai
+=============================================
+*****************THE SINH VIEN**************
+============================================
+Ma sinh vien:7
+Ho va ten:Trinh Van Minh
+Dia chi: Nam Tu Liem, Ha Noi
+Gioi tinh: Nam
+Que quan: Tuyen Quang
+=============================================
+*****************THE SINH VIEN**************
+============================================
+Ma sinh vien:8
+Ho va ten:Pham Van Luong
+Dia chi: Hai Ba Trung, Ha Noi
+Gioi tinh: Nam
+Que quan: Ninh Binh
+=============================================
+*****************THE SINH VIEN**************
+============================================
+Ma sinh vien:9
+Ho va ten:Nguyen Thi Hong Ngoc
+Dia chi: Thanh Xuan, Ha Noi
+Gioi tinh: Nu
+Que quan: Thai Binh
+=============================================
+*****************THE SINH VIEN**************
+============================================
+Ma sinh vien:10
+Ho va ten:Dinh Van Hanh
+Dia chi: Hoan Kiem, Ha Noi
+Gioi tinh: Nam
+Que quan: Hai Phon
+=============================================
